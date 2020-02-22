@@ -3,7 +3,7 @@
 [Resume](https://seda11.github.io/) is my CV
 
 ## Preview
-[![Resume Preview](file:///C:/Users/ws/Desktop/seda.m/a.PNG)](https://seda11.github.io/)
+[![Resume Preview](file:///C:/Users/ws/Desktop/seda.m/a.PNG)](https://seda11.github.com/images/a.PNG)
 
 [![Resume Preview](file:///C:/Users/ws/Desktop/Seda11.github.io/index.html)](https://seda11.github.io/)
 
